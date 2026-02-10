@@ -78,4 +78,4 @@ tubes-skc/
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan akademik (Tugas Besar SKC).
+Proyek ini dibuat untuk keperluan pembelajaran.
